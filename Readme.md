@@ -1,12 +1,12 @@
 Topic:- NEWS category
 
 tentative, can be changed in future
-By analysing the catagery of new we can know that which type of NEWS going more.
-We can know that in which area which type of things are going on.
-Example:-1. In a particular district/area/state crime category is more people at that pplace can protect themself and
-            stict action can be taken to reduce crime rate.
-         2. Which place is best for starting a particualr business .
-         3. Finding best place for particular type of studies.
+we can predict the tupe of news ar shown tv channel and which type or news does public libe to increase trp.
+
+
+
+
+
 
 Problem Statement:-
 Can you categorize news articles based on their headlines and short descriptions?
