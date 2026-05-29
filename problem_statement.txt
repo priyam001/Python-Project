@@ -1,0 +1,19 @@
+Problem Statement: News Category Classification
+=================================================
+
+Can you categorize news articles based on their headlines and short descriptions?
+
+Do news articles from different categories have different writing styles?
+
+A classifier trained on this dataset could be used on a free text to identify
+the type of news it represents, enabling automated content categorization.
+
+This has practical applications in:
+  - Automated news feed organization
+  - Content recommendation systems
+  - Media trend analysis
+  - Audience targeting for publishers
+  - TRP prediction based on news category preferences
+
+The goal is to build a machine learning model that accurately predicts the
+category of a news article given its headline and a brief description.
